@@ -1,6 +1,6 @@
 <h1 align="center">Javier Serrano Gómez</h1>
 <p align="center"><b>Desarrollador Backend</b> · Java · Spring Boot · APIs REST<br>
-Desarrollador Java en Adding Technology · 3 años de experiencia backend, de PHP a Java.</p>
+Desarrollador Java en Adding Technology (desde jul 2026) · 3 años de experiencia backend, de PHP a Java.</p>
 
 <p align="center">
   <a href="https://ilygomzzz.github.io"><b>Portfolio</b></a> ·
