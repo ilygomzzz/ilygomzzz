@@ -19,5 +19,7 @@ Desarrollador Java en Adding Technology · 3 años de experiencia backend.</p>
 ## Destacado
 - **Tag-Me** — banco y tienda en equipo: dos backends Spring Boot (JWT, Flyway, Testcontainers) y frontends Angular. Código: [store-backend](https://github.com/Tag-Me-DAW2/store-backend) · [bank-backend](https://github.com/Tag-Me-DAW2/bank-backend). Detalle en el [portfolio](https://ilygomzzz.github.io/#projects).
 
+- **IA aplicada** — sistema de agentes con Claude Code (especificaciones, validación y PR) que automatiza mi día a día académico. Detalle en el [portfolio](https://ilygomzzz.github.io/#ai).
+
 ## Contacto
 Abierto a proyectos y oportunidades: [LinkedIn](https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/) · [javier.sego04@gmail.com](mailto:javier.sego04@gmail.com)
