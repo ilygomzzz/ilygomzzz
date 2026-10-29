@@ -18,7 +18,6 @@ Desarrollador Java en Adding Technology · 3 años de experiencia backend.</p>
 
 ## Destacado
 - **Tag-Me** — banco y tienda en equipo: dos backends Spring Boot (JWT, Flyway, Testcontainers) y frontends Angular. Código: [store-backend](https://github.com/Tag-Me-DAW2/store-backend) · [bank-backend](https://github.com/Tag-Me-DAW2/bank-backend). Detalle en el [portfolio](https://ilygomzzz.github.io/#projects).
-- **[SUD en Bash](https://github.com/ilygomzzz/SUD-BASH-Javier)** — mis primeros pasos programando: un juego de rol de texto en Bash con SQLite (versión anterior a la final, que se perdió).
 
 ## Contacto
 Abierto a proyectos y oportunidades: [LinkedIn](https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/) · [javier.sego04@gmail.com](mailto:javier.sego04@gmail.com)
