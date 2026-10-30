@@ -3,10 +3,10 @@
 Java Developer at Adding Technology (since Jul 2026) · 3 years of backend experience, from PHP to Java.</p>
 
 <p align="center">
-  <a href="https://ilygomzzz.github.io"><b>Portfolio</b></a> ·
-  <a href="https://ilygomzzz.github.io/cv.pdf">CV</a> ·
-  <a href="https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/">LinkedIn</a> ·
-  <a href="mailto:javier.sego04@gmail.com">Email</a>
+  <a href="https://ilygomzzz.github.io"><img src="https://img.shields.io/badge/Portfolio-667eea?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ilygomzzz.github.io/cv.pdf"><img src="https://img.shields.io/badge/CV-764ba2?style=flat&logo=readme&logoColor=white" alt="CV"></a>
+  <a href="https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:javier.sego04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## About me
@@ -31,7 +31,7 @@ REST · SOAP · OAuth2 · JPA · Flyway · Testcontainers · AWS (EC2, S3)
 - **Quesada.IT** — Custom CRMs with PHP, JavaScript and MySQL.
 
 ## Featured
-- **Tag-Me** — team-built bank and store: two Spring Boot backends talking over HTTP. The bank has a use-case layer (card payment and transfer) and JWT; the store has an integration module that charges the bank. Flyway and Testcontainers in both. Code: [bank-backend](https://github.com/Tag-Me-DAW2/bank-backend) · [store-backend](https://github.com/Tag-Me-DAW2/store-backend). Details in the [portfolio](https://ilygomzzz.github.io/#projects).
+- **Tag-Me** — team-built bank and store: two Spring Boot backends talking over HTTP. The bank has a use-case layer (card payment and transfer) and JWT; the store has an integration module that charges the bank. Flyway and Testcontainers in both. Code: [![bank-backend](https://img.shields.io/badge/bank--backend-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tag-Me-DAW2/bank-backend) [![store-backend](https://img.shields.io/badge/store--backend-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tag-Me-DAW2/store-backend). Details in the [portfolio](https://ilygomzzz.github.io/#projects).
 
 - **Applied AI** — agent system built with Claude Code (specs, validation and PR) that automates my academic day-to-day. Details in the [portfolio](https://ilygomzzz.github.io/#ai).
 
@@ -40,4 +40,6 @@ REST · SOAP · OAuth2 · JPA · Flyway · Testcontainers · AWS (EC2, S3)
 - **Microcomputer Systems and Networks (SMR)** — IES La Sénia (2022–24)
 
 ## Contact
-Open to projects and opportunities: [LinkedIn](https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/) · [javier.sego04@gmail.com](mailto:javier.sego04@gmail.com)
+Open to projects and opportunities:
+
+<a href="https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:javier.sego04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
