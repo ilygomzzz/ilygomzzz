@@ -1,6 +1,6 @@
 <h1 align="center">Javier Serrano Gómez</h1>
-<p align="center"><b>Desarrollador Backend</b> · Java · Spring Boot · APIs REST<br>
-Desarrollador Java en Adding Technology (desde jul 2026) · 3 años de experiencia backend, de PHP a Java.</p>
+<p align="center"><b>Backend Developer</b> · Java · Spring Boot · REST APIs<br>
+Java Developer at Adding Technology (since Jul 2026) · 3 years of backend experience, from PHP to Java.</p>
 
 <p align="center">
   <a href="https://ilygomzzz.github.io"><b>Portfolio</b></a> ·
@@ -19,15 +19,15 @@ Desarrollador Java en Adding Technology (desde jul 2026) · 3 años de experienc
 
 REST · SOAP · OAuth2 · JPA · Flyway · Testcontainers · AWS (EC2, S3)
 
-## Experiencia
-- **Adding Technology** — Desarrollador Java: procesos batch que consumen servicios REST y SOAP, cliente HTTP con OAuth2 y migración de un servicio de SOAP a REST.
-- **Fever | Casfid** — Desarrollador backend en prácticas: plataforma de ticketing, control de accesos y cashless en producción durante eventos reales.
-- **Quesada.IT** — CRMs a medida con PHP, JavaScript y MySQL.
+## Experience
+- **Adding Technology** — Java Developer: batch processes consuming REST and SOAP services, an OAuth2 HTTP client and a SOAP-to-REST service migration.
+- **Fever | Casfid** — Backend developer (internship): ticketing platform, access control and cashless payments in production during live events.
+- **Quesada.IT** — Custom CRMs with PHP, JavaScript and MySQL.
 
-## Destacado
-- **Tag-Me** — banco y tienda en equipo: dos backends Spring Boot que se hablan por HTTP. El banco tiene capa de casos de uso (pago con tarjeta y transferencia) y JWT; la tienda, un módulo de integración que le cobra al banco. Flyway y Testcontainers en ambos. Código: [bank-backend](https://github.com/Tag-Me-DAW2/bank-backend) · [store-backend](https://github.com/Tag-Me-DAW2/store-backend). Detalle en el [portfolio](https://ilygomzzz.github.io/#projects).
+## Featured
+- **Tag-Me** — team-built bank and store: two Spring Boot backends talking over HTTP. The bank has a use-case layer (card payment and transfer) and JWT; the store has an integration module that charges the bank. Flyway and Testcontainers in both. Code: [bank-backend](https://github.com/Tag-Me-DAW2/bank-backend) · [store-backend](https://github.com/Tag-Me-DAW2/store-backend). Details in the [portfolio](https://ilygomzzz.github.io/#projects).
 
-- **IA aplicada** — sistema de agentes con Claude Code (especificaciones, validación y PR) que automatiza mi día a día académico. Detalle en el [portfolio](https://ilygomzzz.github.io/#ai).
+- **Applied AI** — agent system built with Claude Code (specs, validation and PR) that automates my academic day-to-day. Details in the [portfolio](https://ilygomzzz.github.io/#ai).
 
-## Contacto
-Abierto a proyectos y oportunidades: [LinkedIn](https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/) · [javier.sego04@gmail.com](mailto:javier.sego04@gmail.com)
+## Contact
+Open to projects and opportunities: [LinkedIn](https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/) · [javier.sego04@gmail.com](mailto:javier.sego04@gmail.com)
