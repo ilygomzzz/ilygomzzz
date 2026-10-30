@@ -9,6 +9,12 @@ Java Developer at Adding Technology (since Jul 2026) · 3 years of backend exper
   <a href="mailto:javier.sego04@gmail.com">Email</a>
 </p>
 
+## About me
+- **Now:** Java Developer at Adding Technology.
+- **Based in:** Valencia, Spain.
+- **Languages:** Spanish · English (B1–B2).
+- **Also:** building an agent system with Claude Code to automate my academic day-to-day.
+
 ## Stack
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -28,6 +34,10 @@ REST · SOAP · OAuth2 · JPA · Flyway · Testcontainers · AWS (EC2, S3)
 - **Tag-Me** — team-built bank and store: two Spring Boot backends talking over HTTP. The bank has a use-case layer (card payment and transfer) and JWT; the store has an integration module that charges the bank. Flyway and Testcontainers in both. Code: [bank-backend](https://github.com/Tag-Me-DAW2/bank-backend) · [store-backend](https://github.com/Tag-Me-DAW2/store-backend). Details in the [portfolio](https://ilygomzzz.github.io/#projects).
 
 - **Applied AI** — agent system built with Claude Code (specs, validation and PR) that automates my academic day-to-day. Details in the [portfolio](https://ilygomzzz.github.io/#ai).
+
+## Education
+- **Higher VET in Web Application Development (DAW)** — CIPFP Mislata (2024–26)
+- **Microcomputer Systems and Networks (SMR)** — IES La Sénia (2022–24)
 
 ## Contact
 Open to projects and opportunities: [LinkedIn](https://www.linkedin.com/in/javier-serrano-g%C3%B3mez-5b5916298/) · [javier.sego04@gmail.com](mailto:javier.sego04@gmail.com)
